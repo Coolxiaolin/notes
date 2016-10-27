@@ -1,8 +1,11 @@
 ## Local descriptors
 
 * HOG
+
   方向梯度直方图（Histogram of Oriented Gradient, HOG）（本质：梯度的统计信息，而梯度主要存在于边缘的地方）
+  
   [HOG的实现](http://blog.csdn.net/liulina603/article/details/8291093)
+  
   HOG特征提取方法就是将一个image（你要检测的目标或者扫描窗口）：
 
  1）灰度化（将图像看做一个x,y,z（灰度）的三维图像）；
