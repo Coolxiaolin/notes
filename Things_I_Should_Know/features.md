@@ -27,3 +27,7 @@ HOG特征提取方法就是将一个image（你要检测的目标或者扫描窗
 Based on histograms of oriented (spatial) gradients (HOG) + histogram of optical flow (HOF)
 
 * MBH
+
+* Fisher Vector
+
+* PCA
