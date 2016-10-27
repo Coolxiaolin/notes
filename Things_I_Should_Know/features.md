@@ -24,4 +24,6 @@
   
 * HOF
 
+Based on histograms of oriented (spatial) gradients (HOG) + histogram of optical flow (HOF)
+
 * MBH
