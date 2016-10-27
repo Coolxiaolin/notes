@@ -28,6 +28,8 @@ Based on histograms of oriented (spatial) gradients (HOG) + histogram of optical
 
 * MBH
 
+Motion Boundary Histogram
+
 * Fisher Vector
 
 * PCA
