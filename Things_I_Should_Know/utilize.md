@@ -3,4 +3,4 @@
 * random walk 是怎么用的
 　参考论文[What if we do not have multiple videos of the same action? Video Action Localization Using Web Images](http://crcv.ucf.edu/people/phd_students/waqas/CVPR16_Waqas_AL.pdf)
  
- ![random walk](random_walk.png "random walk")
+ ![random walk](Things_I_Should_Know/Appendix/random_walk.png "random walk")
