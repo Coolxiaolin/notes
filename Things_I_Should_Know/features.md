@@ -34,7 +34,7 @@ Motion Boundary Histogram
 ## Gobal Descriptor
 
 * Fisher Vector
-![Fisher Vector 是怎么用的](Things_I_Should_Know/FisherVector.png)
+![Fisher Vector 是怎么用的](Things_I_Should_Know/Appendix/FisherVector.png)
 
 这个概念不大懂，后面要再看看
 [一个解释](http://www.cnblogs.com/jie-dcai/p/5740480.html)
