@@ -1,5 +1,5 @@
     
-  ## 写程序和调试程序中出现过的不提示直接跑死matlab的问题集锦
+## 写程序和调试程序中出现过的不提示直接跑死matlab的问题集锦
   
   * Check failed: error == cudaSuccess (2 vs. 0) out of memory 
    使用　　nvidia-smi 　查看内存。
