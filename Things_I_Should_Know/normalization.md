@@ -12,6 +12,7 @@
 * l2范数
 　2范数也是使得函数成为凸函数，Ridge Regression。其中2范数最好求解。
  ![L2norm](NumberedEquation2.gif)
+ refer to : [Frobenius Norm](http://mathworld.wolfram.com/FrobeniusNorm.html)
 
 * F范数
 
